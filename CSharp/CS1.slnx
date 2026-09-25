@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CS1/CS1.csproj" />
+  <Project Path="CS2/CS2.csproj" />
+  <Project Path="CS3/CS3.csproj" />
+  <Project Path="CS4/CS4.csproj" />
+  <Project Path="E1/E1.csproj" />
+  <Project Path="SE1/SE1.csproj" />
+</Solution>
