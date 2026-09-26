@@ -30,6 +30,32 @@ namespace SE1
            double operación = 0;
            operación = ((30 + 8 - 2) / 2) * -1;
            Console.WriteLine($"Operación: {operación}");
+           //sesion 11 continuacion de solucion del examen
+           //7. bombilla
+           bool i1 = true;
+           bool 12 = false;
+           if (11 && 12)
+           {
+            Console.WriteLine("encendido");
+           }         
+           else
+           {
+           Console.WriteLine ("apagado");
+           }
+           //8. Asueto
+           int dia = 16;
+           string mes = "septiembre";
+           if (dia == 16 && mes == "septiembre")
+           {
+           Console. WriteLine("asueto");
+           }
+           else
+           {
+           Console.WriteLine("sin definir");
+           }
+           //9. almacenar una exprecion que de como resultado true
+           bool resultado 7411&91-0;
+           Console WriteLine($"el resultado es (resultado)");
         }
     }
 }
